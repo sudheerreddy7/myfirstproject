@@ -42,6 +42,7 @@
 				        <workers>${workers}</workers>
 				        <objectStoreV2>true</objectStoreV2>
 				    </cloudHubDeployment>
+					<classifier>mule-apllication</classifier>
 				</configuration>
 			</plugin>
 		</plugins>
